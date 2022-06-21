@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
  - LinkedIn :: [www.linkedin.com/in/bamshak](https://www.linkedin.com/in/bamshak) 
  - StackOverflow :: [stackoverflow.com/users/1966629/david-meshak](https://www.stackoverflow.com/users/1966629/david-meshak) 
-
+ - C# Software Developer
+ - I’m currently learning flutter
 
 ![](https://komarev.com/ghpvc/?username=bamshak&style=flat-square&color=000000&label=Profile+VIEWS)
