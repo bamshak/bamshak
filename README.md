@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **bamshak/bamshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - LinkedIn :: [www.linkedin.com/in/bamshak](https://www.linkedin.com/in/bamshak) 
+ - StackOverflow :: [stackoverflow.com/users/1966629/david-meshak](https://www.stackoverflow.com/users/1966629/david-meshak) 
+
+
+![](https://komarev.com/ghpvc/?username=bamshak&style=flat-square&color=000000&label=Profile+VIEWS)
